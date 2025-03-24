@@ -1,2 +1,6 @@
 # MyAcademicJourney
 An organized showcase of my academic projects and milestones, reflecting a commitment to learning and progress in preparation for my studies at Edinburgh University.
+Welcome to my academic portfolio, showcasing the projects, achievements, and experiences that define my growth as a student and aspiring scholar. This repository has been curated to support my application to Edinburgh University, highlighting my dedication to learning, creativity, and problem-solving.
+The contents of this repository emphasize my ability to tackle complex problems, work collaboratively, and think critically-qualities i hope to futher cultivate during my time at Edinburgh University.
+TABLE OF CONTENTS Project1-      Project2-      Project3-
+I aim to build a career as data analyst specializing in the finance sector. My goal is to leverage data science techniques to analyze financial trends, optimize investment strategies, and support data-driven decision-making. I plan to develop expertise in SQL, Phyton, and data visualization tools like Tableau, alongside a deep understanding of financial systems and regulations. By continuously enhancing my technical and domain-specific skills, I aspire to contribute to impactful projects and advance within this high-demand, rewarding field.
